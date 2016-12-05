@@ -1,0 +1,15 @@
+h1{
+	font-size: 2em
+}
+
+h2{
+	font-size: 1.5em
+}
+
+.taskEnded{
+	background-color : green
+}
+
+.taskNotEnded{
+	background-color : red
+}
